@@ -4,6 +4,7 @@ Create same diff Pull Request for Multiple GitHub repositories.
 # Prerequisite
  * git cli
  * hub - https://github.com/github/hub
+ * rsync
 
 # 1. Usage
 ## Put file under source directory.
